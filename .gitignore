@@ -1,2 +1,4 @@
 *.dat
 results/
+*.data
+!really _important_data.data
